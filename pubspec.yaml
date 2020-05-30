@@ -1,0 +1,40 @@
+name: wise
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^8.8.1
+  flutter_icons: ^1.1.0
+  cupertino_icons: ^0.1.2
+  provider: ^4.0.5
+  firebase_auth:
+  cloud_firestore:
+  modal_progress_hud: ^0.1.3
+  flutter_snake_navigationbar: ^0.4.0+1
+  image_picker: ^0.6.6+1
+  path_provider: ^1.6.7
+  uuid: ^2.0.4
+  flutter_svg: ^0.17.4
+  cached_network_image: ^2.2.0+1
+  firebase_storage: ^3.1.5
+  animator: ^2.0.0
+  timeago: ^2.0.26
+  shared_preferences: ^0.5.7+2
+  lite_rolling_switch: ^0.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - images/

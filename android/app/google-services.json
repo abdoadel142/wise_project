@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145695040421",
+    "firebase_url": "https://wisedb-7d426.firebaseio.com",
+    "project_id": "wisedb-7d426",
+    "storage_bucket": "wisedb-7d426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145695040421:android:5dbcf151588817a42afe4c",
+        "android_client_info": {
+          "package_name": "com.example.wise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145695040421-s554itnr4r8j3s03qgka8bpoph5ggj6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrXVAts_TUNDAxWVX19pdZ7JMm4PDlCq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145695040421-s554itnr4r8j3s03qgka8bpoph5ggj6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
